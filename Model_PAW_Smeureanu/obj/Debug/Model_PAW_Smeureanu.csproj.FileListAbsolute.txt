@@ -1,0 +1,11 @@
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\bin\Debug\Model_PAW_Smeureanu.exe.config
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\bin\Debug\Model_PAW_Smeureanu.exe
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\bin\Debug\Model_PAW_Smeureanu.pdb
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.csproj.AssemblyReference.cache
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.Form1.resources
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.Form2.resources
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.Properties.Resources.resources
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.csproj.GenerateResource.cache
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.csproj.CoreCompileInputs.cache
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.exe
+C:\Users\Vivi\source\repos\Model_PAW_Smeureanu\Model_PAW_Smeureanu\obj\Debug\Model_PAW_Smeureanu.pdb
